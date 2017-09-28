@@ -5,6 +5,8 @@
 Bulgarian basic income cryptocoin
  - http://bincome.eu/
 
+ - http://www.basicincome.co/
+
 
 ## Welcome to GitHub Pages
 
