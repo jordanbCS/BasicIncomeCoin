@@ -4,6 +4,8 @@ Part of a series of experiments intended to find workarounds for the problem for
 
 ## Related
 
+ - https://www.reddit.com/r/BasicIncome/
+ 
  - http://bincome.eu/  Bulgarian basic income cryptocoin
 
  - http://www.basicincome.co/
