@@ -6,6 +6,8 @@ BasicIncomeCoin is part of a series of experiments intended to find workarounds 
 
 ## Related
 
+ - https://www.reddit.com/r/BasicIncome/comments/7alkw8/basic_income_advocacy_discord_server_invite/
+ 
  - http://big.foundation/  
    - https://github.com/bigfoundation/Documentation/blob/master/BIGwhitepaperEN.md  
    
