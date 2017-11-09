@@ -19,3 +19,4 @@ BasicIncomeCoin is part of a series of experiments intended to find workarounds 
 
  - http://www.basicincome.co/
 
+ - https://basicincomeamerica.org/
