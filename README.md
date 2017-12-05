@@ -27,4 +27,6 @@ The proof of work could be a kind of simulation, like running SimCity, where the
 
  - http://www.basicincome.co/
 
- - https://basicincomeamerica.org/
+ - https://basicincomeamerica.org/  
+ 
+ - https://www.youtube.com/watch?v=rJYLSrjFUxk - WSJ segment on UBI
