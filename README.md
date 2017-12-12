@@ -12,6 +12,8 @@ The proof of work could be a kind of simulation, like running SimCity, where the
 
 ## Related  
 
+ - https://www.mannabase.com/a848d5267a  
+
  - https://www.givedirectly.org/blog-post?id=7285958994145750939
 
  - https://www.reddit.com/r/BasicIncome/comments/7alkw8/basic_income_advocacy_discord_server_invite/
