@@ -12,6 +12,8 @@ The proof of work could be a kind of simulation, like running SimCity, where the
 
 ## Related  
 
+ - http://www.independent.co.uk/news/world/americas/basic-income-quebec-canada-poverty-unemployment-ontario-a8103616.html
+
  - https://www.mannabase.com/a848d5267a  
 
  - https://www.givedirectly.org/blog-post?id=7285958994145750939
