@@ -21,9 +21,6 @@ The proof of work could be a kind of simulation, like running SimCity, where the
  - https://www.reddit.com/r/BasicIncome/comments/7alkw8/basic_income_advocacy_discord_server_invite/
 
  - http://basicincome.org/news/2017/10/overview-of-current-basic-income-related-experiments-october-2017/
- 
- - http://big.foundation/  
-   - https://github.com/bigfoundation/Documentation/blob/master/BIGwhitepaperEN.md  
    
  - https://www.reddit.com/r/BasicIncome/  
  
