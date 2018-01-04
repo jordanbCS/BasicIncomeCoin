@@ -8,6 +8,7 @@ BasicIncomeCoin is part of a series of experiments intended to find workarounds 
 
 The proof of work could be a kind of simulation, like running SimCity, where the results of interest were based on voting a particular way at the start. Miners would be performing Monte Carlo simulations guided by the "Metropolis" algorithm, or some kind of generative and inferential process that estimates the likelihood of particular, voted upon, societal outcomes from a prior wealth distribution over wallets.  
 
+ - "Fab cities" - http://evonomics.com/post-capitalism-entrepreneurship/  
  - https://www.openttd.org/en/  
 
 ## Related  
