@@ -8,6 +8,8 @@ BasicIncomeCoin is part of a series of experiments intended to find workarounds 
 
 ## Related  
 
+ - https://www.facebook.com/CirclesUBI  
+
  - http://www.independent.co.uk/news/world/americas/basic-income-quebec-canada-poverty-unemployment-ontario-a8103616.html
 
  - https://www.mannabase.com/a848d5267a  
