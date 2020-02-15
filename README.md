@@ -7,16 +7,12 @@ BasicIncomeCoin is part of a series of experiments intended to find workarounds 
  
 ## Related  
 
+ - https://ubic.app/  
+ 
  - Bancor local currency in Kenya has been described as being used to distribute UBI: https://blog.bancor.network/redesigning-community-currencies-from-one-tomato-to-1000-wallets-on-sarafu-network-80a629354ab1  
  - https://www.reddit.com/r/CryptoUBI/comments/b8b28n/bancor_described_in_this_article_as_enabling_ubi/?  
 
- - No time to do a rigourous review of this UBI coin "duniter" but this article https://medium.com/@marma.developer/if-when-shit-hits-the-fan-and-the-global-financial-system-collapses-62dae5860369 describes it as "a Universal Basic Income in the form of a crypto-currency implemented via a decentralized, permissionless blockchain, applying the principle of the Relative Theory of Money." based on the "the Relative Theory of Money" which seems to be an invention of the author. According to a definition here: https://wiki.p2pfoundation.net/Relative_Theory_of_Money it is "which is the only way to avoid both spatial and temporal asymmetry toward money issuance". The full paper here: http://en.trm.creationmonetaire.info/TheorieRelativedelaMonnaie.pdf Some of the diagrams at the end of the paper look very similar in spirit to my earlier thoughts on a differential equation for VoteCoin: 
- 
-<img src="https://j3.braincoin.org/owncloud/index.php/apps/files_sharing/ajax/publicpreview.php?x=1371&y=369&a=true&file=RelativeTheoryOfMoney.png&t=QOK9IhKO91Mcoac&scalingup=0" width=400>  <img src="https://j3.braincoin.org/owncloud/index.php/apps/files_sharing/ajax/publicpreview.php?x=1371&y=369&a=true&file=schematic.png&t=LMoWwQEt4FXtHnY&scalingup=0" width=400>
- 
- "[the cryptocurrency]called G1 (pronounced “June”) and can be downloaded/explored further here: www.duniter.org
-
-In order to “create” or open an account which is entitled to receive a daily UD, the person needs to be “certified” as being a “real” person by at least 5 existing members, via a physical “in person” meeting (the technology relies on the open source “web of trust” system). This certificate needs to be renewed every 2 years so if that person cheats and opens several accounts in order to get more UD, there is always a risk that his accounts will not be renewed if he/she cheats and is discovered." 
+ - No time to do a rigourous review of this UBI coin "duniter" but this article https://medium.com/@marma.developer/if-when-shit-hits-the-fan-and-the-global-financial-system-collapses-62dae5860369 describes it as "a Universal Basic Income in the form of a crypto-currency implemented via a decentralized, permissionless blockchain, applying the principle of the Relative Theory of Money." based on the "the Relative Theory of Money" which seems to be an invention of the author. According to a definition here: https://wiki.p2pfoundation.net/Relative_Theory_of_Money it is "which is the only way to avoid both spatial and temporal asymmetry toward money issuance". The full paper here: http://en.trm.creationmonetaire.info/TheorieRelativedelaMonnaie.pdf Some of the diagrams at the end of the paper look very similar in spirit to my earlier thoughts on a differential equation for VoteCoin. "[the cryptocurrency]called G1 (pronounced “June”) and can be downloaded/explored further here: www.duniter.org In order to “create” or open an account which is entitled to receive a daily UD, the person needs to be “certified” as being a “real” person by at least 5 existing members, via a physical “in person” meeting (the technology relies on the open source “web of trust” system). This certificate needs to be renewed every 2 years so if that person cheats and opens several accounts in order to get more UD, there is always a risk that his accounts will not be renewed if he/she cheats and is discovered." 
 
  - https://www.facebook.com/CirclesUBI  
 
