@@ -7,6 +7,11 @@ BasicIncomeCoin is part of a series of experiments intended to find workarounds 
  
 ## Related  
 
+
+ - https://www.politicoast.ca/2020/05/21/bonus-lindsay-tedds-on-basic-income-during-covid-19-paper/   
+
+ - https://soundcloud.com/theblockchainsocialist/why-the-left-should-care-about-identity-and-quadratic-voting-feat-paula-berman-from-democracy-earth  
+
  - https://ubic.app/  
  
  - Bancor local currency in Kenya has been described as being used to distribute UBI: https://blog.bancor.network/redesigning-community-currencies-from-one-tomato-to-1000-wallets-on-sarafu-network-80a629354ab1  
