@@ -12,7 +12,7 @@ BasicIncomeCoin is part of a series of experiments intended to find workarounds 
 
  - https://soundcloud.com/theblockchainsocialist/why-the-left-should-care-about-identity-and-quadratic-voting-feat-paula-berman-from-democracy-earth  
 
- - https://ubic.app/  
+ - https://ubic.app/ - Based on using the digital data in passports. good explainer video: https://www.youtube.com/watch?v=jsZr-7T5-zU   
  
  - Bancor local currency in Kenya has been described as being used to distribute UBI: https://blog.bancor.network/redesigning-community-currencies-from-one-tomato-to-1000-wallets-on-sarafu-network-80a629354ab1  
  - https://www.reddit.com/r/CryptoUBI/comments/b8b28n/bancor_described_in_this_article_as_enabling_ubi/?  
