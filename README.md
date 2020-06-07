@@ -41,7 +41,12 @@ BasicIncomeCoin is part of a series of experiments intended to find workarounds 
  
  - https://www.youtube.com/watch?v=rJYLSrjFUxk - WSJ segment on UBI  
  
+## Articles
  
-## Questions  
+ - https://basicincometoday.com/editorial-ubi-is-the-recognition-that-racial-justice-and-economic-justice-are-inextricably-intertwined/  
+ 
+## Ideas/questions  
 
-Are indefinite student loans sort of like UBI?  
+It seems like there must be an external source of value coming into the system/
+
+Are indefinite student loans sort of like UBI? One based on conscripting you to learn sort of.  
