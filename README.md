@@ -47,6 +47,6 @@ BasicIncomeCoin is part of a series of experiments intended to find workarounds 
  
 ## Ideas/questions  
 
-It seems like there must be an external source of value coming into the system/
+It seems like there must be an external source of value coming into the system from somewhere. Here's where there could be a role for commitcoin/patentcoin or something to track digital "deeds" for things in the real world. Initial funding could come from a set of bequeathments.  
 
 Are indefinite student loans sort of like UBI? One based on conscripting you to learn sort of.  
