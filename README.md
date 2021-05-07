@@ -6,6 +6,8 @@ BasicIncomeCoin is part of a series of experiments intended to find workarounds 
 
  
 ## Related  
+   
+ - Can't say anything about this one, just the link posted to Reddit: https://www.reddit.com/r/CryptoUBI/comments/n6pna9/just_discovered_this_cryptoubi_with_stable_coin/
 
  - https://cryptobasicincome.com/ - after a certain amount of donations have been collected, a basic income payout is raffled off.   
 
