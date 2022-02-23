@@ -6,6 +6,8 @@ BasicIncomeCoin is part of a series of experiments intended to find workarounds 
 
  
 ## Related  
+
+ - Decentralized Basic Income & ZK Proof Identities - Hakwan Lau - https://www.youtube.com/watch?v=jB5gChpa9OY   
    
  - Can't say anything about this one, just the link posted to Reddit: https://www.reddit.com/r/CryptoUBI/comments/n6pna9/just_discovered_this_cryptoubi_with_stable_coin/
 
