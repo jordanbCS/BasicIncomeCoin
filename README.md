@@ -7,6 +7,10 @@ BasicIncomeCoin is part of a series of experiments intended to find workarounds 
  
 ## Related  
 
+ - "Global Income Coin" aims to provide $1/day for anyone who signs up. It has already received $2 million in funding from the co-founder/CEO of GitLab. 
+  - https://www.reddit.com/r/CryptoUBI/comments/ue3103/new_crypto_ubi_coin_glo_coming_thanks_to_donation/  
+  - https://www.globalincomecoin.com/    
+
  - Decentralized Basic Income & ZK Proof Identities - Hakwan Lau - https://www.youtube.com/watch?v=jB5gChpa9OY   
    
  - Can't say anything about this one, just the link posted to Reddit: https://www.reddit.com/r/CryptoUBI/comments/n6pna9/just_discovered_this_cryptoubi_with_stable_coin/
