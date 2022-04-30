@@ -5,7 +5,7 @@ BasicIncomeCoin.com is part of a series of public notes being collected on the t
 More information - http://docs.braincoin.org  
 
  
-## Related  
+## Related links   
 
  - "Global Income Coin" aims to provide $1/day for anyone who signs up. It has already received $2 million in funding from the co-founder/CEO of GitLab. 
    - https://www.reddit.com/r/CryptoUBI/comments/ue3103/new_crypto_ubi_coin_glo_coming_thanks_to_donation/  
@@ -15,13 +15,15 @@ More information - http://docs.braincoin.org
    - https://maxbit.cc/worldcoin-announces-privacy-upgrade-after-backlash/  
    - https://worldcoin.org/the-worldcoin-protocol  
 
- - Decentralized Basic Income & ZK Proof Identities - Hakwan Lau - https://www.youtube.com/watch?v=jB5gChpa9OY   
+ - Decentralized Basic Income & ZK Proof Identities 
+   - https://www.youtube.com/watch?v=jB5gChpa9OY   
    
- - Can't say anything about this one, just the link posted to Reddit: https://www.reddit.com/r/CryptoUBI/comments/n6pna9/just_discovered_this_cryptoubi_with_stable_coin/
+ - Can't say much of anything about this one, just the link posted to Reddit: https://www.reddit.com/r/CryptoUBI/comments/n6pna9/just_discovered_this_cryptoubi_with_stable_coin/
 
  - https://cryptobasicincome.com/ - after a certain amount of donations have been collected, a basic income payout is raffled off.   
 
- - https://www.reddit.com/r/BasicIncome/comments/mp82a1/algovest_staking_contract_is_userfriendly_and/ "AlgoVest staking contract is user-friendly and secure to use on MetaMask"  
+ - "AlgoVest staking contract is user-friendly and secure to use on MetaMask" - https://www.reddit.com/r/BasicIncome/comments/mp82a1/algovest_staking_contract_is_userfriendly_and/   
+
  - GoodDollar aims to be an explicitly UBI platform, that pays out based on donations to it. I just made a wallet but I really don't know much about this project: https://www.gooddollar.org/  
 
  - "RBC runs on a digital payments platform called E-dinheiro, which helps towns like Maricá circulate their own currencies — backed by Brazilian reais but accepted only within their own communities. People with smartphones can use the E-dinheiro app to transfer digital credits between themselves and other users of their community currency, make purchases from retailers like Ramos, and pay their utility bills. Those without smartphones can use the service by scanning their cards or asking a friend or family member with the app to conduct a transaction on their behalf. Today, there are more than 40 municipalities across Brazil using the platform...Unlike other social currency initiatives, E-dinheiro doesn’t run on blockchain or any cryptocurrency technology: Mumbucas are effectively reais that can be used only within Maricá’s limits and can be spent only through the platform’s digital payments system. Those receiving the Mumbucas as part of the basic income program can’t swap them for reais, but business owners can cash them out after a 48-hour waiting period and by paying a 1% fee of the amount to be withdrawn." https://restofworld.org/2020/your-money-is-no-good-in-marica/  
@@ -59,12 +61,12 @@ More information - http://docs.braincoin.org
  
  - https://www.youtube.com/watch?v=rJYLSrjFUxk - WSJ segment on UBI  
  
-## Articles
+## Other articles  
  
  - https://basicincometoday.com/editorial-ubi-is-the-recognition-that-racial-justice-and-economic-justice-are-inextricably-intertwined/  
  
 ## Ideas/questions  
 
-It seems like there must be an external source of value coming into the system from somewhere. Here's where there could be a role for commitcoin/patentcoin or something to track digital "deeds" for things in the real world. Initial funding could come from a set of bequeathments.  
+ - It seems like there must be an external source of value coming into the system from somewhere. Here's where there could be a role for commitcoin/patentcoin or something to track digital "deeds" for things in the real world. Initial funding could come from a set of bequeathments.  
 
-Are indefinite student loans sort of like UBI? One based on conscripting you to learn sort of.  
+ - Are indefinite student loans sort of like UBI? One based on conscripting you to learn sort of.  
