@@ -1,8 +1,8 @@
 # Public repository for BasicIncomeCoin.com
 
-http://docs.braincoin.org  
+BasicIncomeCoin.com is part of a series of public notes being collected on the topic of finding workarounds for the problem for decentralized crypto currency based basic income allocation. The general thinking at the moment is to use incomecoin to index the funds allocated by basicincomecoin, as a way of weighting votes cast using votecoin, favouring particular distributions of payouts to basicincomecoin wallet holders. It's a mouthful but the problem seems to require multiple interacting mechanisms to establish unique identities for basicincomecoin recipients.
 
-BasicIncomeCoin is part of a series of experiments intended to find workarounds for the problem for decentralized crypto currency based basic income allocation. The general thinking at the moment is to use incomecoin.com to index the funds allocated by basicincomecoin.com, as a way of weighting votes cast using votecoin.com, that favour particular distributions of payouts to basicincomecoin wallet holders. It's a mouthful but the problem seems to require multiple interacting mechanisms to establish unique identities for basicincomecoin recipients.
+More information - http://docs.braincoin.org  
 
  
 ## Related  
