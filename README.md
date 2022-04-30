@@ -11,7 +11,7 @@ More information - http://docs.braincoin.org
    - https://www.reddit.com/r/CryptoUBI/comments/ue3103/new_crypto_ubi_coin_glo_coming_thanks_to_donation/  
    - https://www.globalincomecoin.com/    
 
- - I seem to have missed this "Worldcoin" attempt at cryptoubi, which has recently had some, probably predictable controversy come up, related to the privacy of the biometric data it requires: "According to its website, Worldcoin calls itself a “new, collectively owned global currency that will be distributed fairly to as many people as possible.” It built a device called Orb, which is used to scan peoples’ irises and capture unique biometric identifiers."  
+ - I seem to have missed this "Worldcoin" attempt at cryptoubi, which has recently had some, probably predictable, controversy come up, related to the privacy of the biometric data it requires: "According to its website, Worldcoin calls itself a “new, collectively owned global currency that will be distributed fairly to as many people as possible.” It built a device called Orb, which is used to scan peoples’ irises and capture unique biometric identifiers."  
    - https://maxbit.cc/worldcoin-announces-privacy-upgrade-after-backlash/  
    - https://worldcoin.org/the-worldcoin-protocol  
 
